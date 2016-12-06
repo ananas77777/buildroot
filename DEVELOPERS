@@ -804,6 +804,7 @@ F:	package/erlang-p1-utils/
 F:	package/erlang-p1-xml/
 F:	package/erlang-p1-yaml/
 F:	package/erlang-p1-zlib/
+F:	package/nginx-dav-ext/
 
 N:	John Stile <johns@msli.com>
 F:	package/dhcpcd/
@@ -967,6 +968,8 @@ F:	package/libsecret/
 
 N:	Martin Bark <martin@barkynet.com>
 F:	package/ca-certificates/
+F:	package/tzdata/
+F:	package/zic/
 
 N:	Martin Hicks <mort@bork.org>
 F:	package/cryptsetup/
@@ -1222,6 +1225,10 @@ F:	package/gssdp/
 F:	package/gupnp/
 F:	package/gupnp-av/
 
+N:	Rahul Jain <rahul.jain@imgtec.com>
+F:	package/uhttpd/
+F:	package/ustream-ssl/
+
 N:	Renaud Aubin <root@renaud.io>
 F:	package/libhttpparser/
 
@@ -1245,6 +1252,7 @@ F:	package/irssi/
 F:	package/vnstat/
 
 N:	Romain Naour <romain.naour@gmail.com>
+F:	package/aubio/
 F:	package/bullet/
 F:	package/efl/
 F:	package/enlightenment/
@@ -1550,6 +1558,7 @@ F:	arch/Config.in.bfin
 F:	arch/Config.in.sparc
 F:	arch/Config.in.m68k
 F:	package/uclibc/
+F:	package/uclibc-ng-test/
 F:	package/mksh/
 
 N:	Waldemar Rymarkiewicz <waldemar.rymarkiewicz@tieto.com>
@@ -1598,6 +1607,7 @@ F:	package/nvidia-driver/
 F:	package/omxplayer/
 F:	package/python-pyparsing/
 F:	package/pkg-download.mk
+F:	package/pkg-waf.mk
 F:	package/slirp/
 F:	package/snappy/
 F:	package/spice/
